@@ -1,0 +1,45 @@
+
+
+h1 {
+    color: black;
+    font-size: 30px;
+    font-style: oblique;
+   
+}
+
+
+p {
+    color:black  ;
+    font-size: 21px;
+}
+.text{
+    color:blue ;
+    font-size:21px;
+}
+img {
+    width: 500px;
+    height: 450px;
+}
+.code{
+    color: coral;
+
+}
+.square {
+    width: 600px;
+    height: 31px;
+    background:orange;
+    animation-range:contain;
+}
+.jip{
+    color:green;
+    font-style:revert-layer;
+}
+.oval{
+    width:30px;
+    height:30px;
+    background:darkorange;
+}
+
+
+
+
